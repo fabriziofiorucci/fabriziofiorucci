@@ -5,8 +5,8 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ## 🤝 Connect
 
-- <a href="https://www.linkedin.com/in/fabriziofiorucci/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Fabrizio Fiorucci | LinkedIn" width="21px"/></a>
-- <a href="https://www.thingiverse.com/fiorucci"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Fabrizio Fiorucci | Thingiverse" width="21px"/></a>
+- <img align="left" src="https://raw.githubusercontent.com/fabriziofiorucci/fabriziofiorucci/main/images/linkedin.svg" alt="L" width="21px"/> <a href="https://www.linkedin.com/in/fabriziofiorucci/">LinkedIn</a>
+- <img align="left" src="https://raw.githubusercontent.com/fabriziofiorucci/fabriziofiorucci/main/images/thingiverse.svg" alt="T" width="21px"/> <a href="https://www.thingiverse.com/fiorucci">Thingiverse</a>
 
 
 ## 🔭 I'm currently working on
