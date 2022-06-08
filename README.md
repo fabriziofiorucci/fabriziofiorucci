@@ -22,6 +22,9 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ![](https://img.shields.io/badge/Backend-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Backend-Redis-informational?style=flat&logo=Redis&color=003B57)
+![](https://img.shields.io/badge/Backend-Clickhouse-informational?style=flat&logo=Clickhouse&color=F7DF1E)
+![](https://img.shields.io/badge/Backend-Elastic_Search-informational?style=flat&logo=Elasticsearch&color=F7DF1E)
+
 
 ## 📈 GitHub Stats 
 
