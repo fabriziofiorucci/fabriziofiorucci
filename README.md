@@ -15,7 +15,7 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=CC342D)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=36b526)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=green)
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=Arduino&color=CB3837)
@@ -24,10 +24,10 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 
 ![](https://img.shields.io/badge/Backend-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Backend-MySQL-informational?style=flat&logo=MySQL&color=F7DF1E)
+![](https://img.shields.io/badge/Backend-MySQL-informational?style=flat&logo=MySQL&color=f0730e)
 ![](https://img.shields.io/badge/Backend-Redis-informational?style=flat&logo=Redis&color=003B57)
 ![](https://img.shields.io/badge/Backend-Clickhouse-informational?style=flat&logo=Clickhouse&color=F7DF1E)
-![](https://img.shields.io/badge/Backend-Elastic_Search-informational?style=flat&logo=Elasticsearch&color=F7DF1E)
+![](https://img.shields.io/badge/Backend-Elastic_Search-informational?style=flat&logo=Elasticsearch&color=308fd8)
 
 
 ## 📈 GitHub Stats 
