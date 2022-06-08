@@ -17,7 +17,7 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=CC342D)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Python&color=green)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=green)
 
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
