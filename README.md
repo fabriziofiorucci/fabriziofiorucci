@@ -36,8 +36,8 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ## 📈 GitHub Stats 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziofiorucci)](https://github.com/yushi1007)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriziofiorucci)](https://github.com/fabriziofiorucci)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziofiorucci)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziofiorucci)](https://github.com/fabriziofiorucci)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=fabriziofiorucci.fabriziofiorucci)
