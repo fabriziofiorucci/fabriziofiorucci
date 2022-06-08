@@ -30,7 +30,8 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ![](https://img.shields.io/badge/Technology-NGINX-informational?style=flat&logo=NGINX&color=green)
 ![](https://img.shields.io/badge/Technology-F5-informational?style=flat&logo=F5&color=red&logoColor=green)
-![](https://img.shields.io/badge/Technology-ESP8266-informational?style=flat&logo=ESP8266&color=yellow&logoColor=green)
+![](https://img.shields.io/badge/Technology-ESP8266-informational?style=flat&logo=ESP8266&color=yellow)
+![](https://img.shields.io/badge/Technology-Arduino-informational?style=flat&logo=Arduino&color=ddf127&logoColor=yellow)
 ![](https://img.shields.io/badge/Technology-3D_Printing-informational?style=flat&color=blue)
 
 ## 📈 GitHub Stats 
