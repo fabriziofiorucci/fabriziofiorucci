@@ -10,7 +10,7 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ## 🔭 I'm currently working on
 
-- [F5 Telemetry Tracker](https://www.github.com/fabriziofiorucci/F5-Telemetry-Tracker)
+- [Second Sight](https://github.com/F5Networks/SecondSight)
 - [NGINX Config Generator](https://www.github.com/fabriziofiorucci/NGINX-Config-Generator)
 
 ## 💼 Technical Skills
