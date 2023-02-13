@@ -14,3 +14,10 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 - [NGINX Declarative API](https://www.github.com/fabriziofiorucci/NGINX-Declarative-API)
 - NGINX Management Suite Docker image builder available on [my GitHub space](https://github.com/fabriziofiorucci/NGINX-NMS-Docker) and on [NGINX Demos](https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-nms-docker)
 - [Docker image builder for NGINX Plus and NGINX Agent](https://github.com/fabriziofiorucci/NGINX-Plus-with-NIM2-Agent)
+
+## Hardware projects and 3D printing
+
+- [PiNAS](https://github.com/fabriziofiorucci/PiNAS) - A Raspberry Pi-powered NAS
+- [Full weather station](https://github.com/fabriziofiorucci/Full-Weather-Station) - ESP8266-based weather station
+- [Streamdeck](https://github.com/fabriziofiorucci/Streamdeck) - Arduino-based stream deck
+- [Tapuino enclosure](https://github.com/fabriziofiorucci/Tapuino) - 3d-printable enclosure for the Tapuino project
