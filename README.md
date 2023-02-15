@@ -13,7 +13,7 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 - [Second Sight](https://github.com/F5Networks/SecondSight)
 - [NGINX Declarative API](https://www.github.com/fabriziofiorucci/NGINX-Declarative-API)
 - NGINX Management Suite Docker image builder available on [my GitHub space](https://github.com/fabriziofiorucci/NGINX-NMS-Docker) and on [NGINX Demos](https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-nms-docker)
-- [Docker image builder for NGINX Plus and NGINX Agent](https://github.com/fabriziofiorucci/NGINX-Plus-with-NIM2-Agent)
+- [Docker image builder for NGINX Plus and NGINX Agent](https://github.com/fabriziofiorucci/NGINX-Plus-with-Agent)
 
 ## Hardware projects and 3D printing
 
