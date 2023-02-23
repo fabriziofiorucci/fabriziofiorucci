@@ -21,5 +21,3 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 - [Full weather station](https://github.com/fabriziofiorucci/Full-Weather-Station) - ESP8266-based weather station
 - [Streamdeck](https://github.com/fabriziofiorucci/Streamdeck) - Arduino-based stream deck
 - [Tapuino enclosure](https://github.com/sweetlilmre/tapuino/tree/master/CAD) - 3d-printable enclosure for the Tapuino project
-
-<a href=#><img src="/images/contributions.svg"></a>
