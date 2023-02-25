@@ -5,9 +5,9 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 ## 🤝 Connect
 
-- <img align="left" src="/images/linkedin.svg" alt="L" width="21px"/> <a href="https://www.linkedin.com/in/fabriziofiorucci/">LinkedIn</a>
-- <img align="left" src="/images/thingiverse.svg" alt="T" width="21px"/> <a href="https://www.thingiverse.com/fiorucci">Thingiverse</a>
-- <img align="left" src="/images/nginx.svg" alt="N" width="21px"/> <a href="https://www.nginx.com/people/fabrizio-fiorucci/">NGINX</a>
+- <img align="left" src="/images/linkedin.svg" alt="L" width="21px"/> <a href="https://www.linkedin.com/in/fabriziofiorucci/" target=_new>LinkedIn</a>
+- <img align="left" src="/images/thingiverse.svg" alt="T" width="21px"/> <a href="https://www.thingiverse.com/fiorucci" target=_new>Thingiverse</a>
+- <img align="left" src="/images/nginx.svg" alt="N" width="21px"/> <a href="https://www.nginx.com/people/fabrizio-fiorucci/" target=_new>NGINX</a>
 
 ## 🔭 I'm currently working on
 
