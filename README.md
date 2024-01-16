@@ -12,7 +12,7 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 ## 🔭 I'm currently working on
 
 - [Second Sight](https://github.com/F5Networks/SecondSight)
-- [NGINX Declarative API](https://www.github.com/fabriziofiorucci/NGINX-Declarative-API)
+- [NGINX Declarative API](https://www.github.com/fabriziofiorucci/NGINX-Declarative-API) on [F5 DevCentral](https://github.com/f5devcentral/)
 - NGINX Management Suite Docker image builder available on [my GitHub space](https://github.com/fabriziofiorucci/NGINX-NMS-Docker) and on [NGINX Demos](https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-nms-docker)
 - NGINX Plus and NGINX Agent Docker image builder available on [my GitHub space](https://github.com/fabriziofiorucci/NGINX-Plus-with-Agent) and on [NGINX Demos](https://github.com/nginxinc/NGINX-Demos/tree/master/nginx-agent-docker)
 
