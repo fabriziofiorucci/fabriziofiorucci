@@ -12,8 +12,9 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 ## 🔭 I'm currently working on
 
 - [NGINX Declarative API](https://www.github.com/f5devcentral/NGINX-Declarative-API) on [F5 DevCentral](https://github.com/f5devcentral/)
-- [Second Sight](https://github.com/F5Networks/SecondSight) on [F5 Networks](https://github.com/F5Networks)
 - [NGINX Demos](https://github.com/nginx/nginx-demos) on [NGINX](https://github.com/nginx/nginx-demos)
+- [Second Sight](https://github.com/F5Networks/SecondSight) on [F5 Networks](https://github.com/F5Networks)
+
 ## Hardware projects and 3D printing
 
 - [PiNAS](https://github.com/fabriziofiorucci/PiNAS) - A Raspberry Pi-powered NAS
