@@ -13,7 +13,6 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 
 - [NGINX Declarative API](https://www.github.com/f5devcentral/NGINX-Declarative-API) on [F5 DevCentral](https://github.com/f5devcentral/)
 - [NGINX Demos](https://github.com/nginx/nginx-demos) on [NGINX](https://github.com/nginx/nginx-demos)
-- [Second Sight](https://github.com/F5Networks/SecondSight) on [F5 Networks](https://github.com/F5Networks)
 
 ## Hardware projects and 3D printing
 
