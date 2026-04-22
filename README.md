@@ -14,6 +14,11 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 - [NGINX Declarative API](https://www.github.com/f5devcentral/NGINX-Declarative-API) on [F5 DevCentral](https://github.com/f5devcentral/)
 - [NGINX Demos](https://github.com/nginx/nginx-demos) on [NGINX](https://github.com/nginx/nginx-demos)
 
+## NGINX modules
+
+- [Greylist module](https://github.com/fabriziofiorucci/ngx_http_greylist_module) - also available on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_http_greylist_module)
+- [RADIUS parser](https://github.com/fabriziofiorucci/ngx_stream_radius_module)
+
 ## Hardware projects and 3D printing
 
 - [PiNAS](https://github.com/fabriziofiorucci/PiNAS) - A Raspberry Pi-powered NAS
