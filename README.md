@@ -20,6 +20,10 @@ Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry 
 - [RADIUS parser](https://github.com/fabriziofiorucci/ngx_stream_radius_module) - also available on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_stream_radius_module)
 - [Consul Service Discovery](https://github.com/fabriziofiorucci/ngx_http_consul_service_discovery)
 
+## Retrocomputing
+
+- [Tapeosaurus](https://github.com/fabriziofiorucci/Tapeosaurus) - Wemos D1-based, cycle-accurate Datasette tape dumper for the Commodore 16 and Plus/4
+
 ## Hardware projects and 3D printing
 
 - [PiNAS](https://github.com/fabriziofiorucci/PiNAS) - A Raspberry Pi-powered NAS
