@@ -1,33 +1,65 @@
-<h2 align="center">
-Modern apps, NGINX, F5, Linux, k8s, sw development, esp8266, Arduino, Raspberry Pi, 3d printing, maker.
-</h2> 
+<div align="center">
 
+# Fabrizio Fiorucci
+
+**Modern apps · NGINX · F5 · Linux · Kubernetes · Software Development**  
+**ESP8266 · Arduino · Raspberry Pi · 3D Printing · Maker**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fabriziofiorucci-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriziofiorucci/)
+[![Thingiverse](https://img.shields.io/badge/Thingiverse-fiorucci-248BFB?style=flat-square&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/fiorucci)
+[![NGINX Blog](https://img.shields.io/badge/NGINX-Author-009639?style=flat-square&logo=nginx&logoColor=white)](https://www.f5.com/company/blog/authors/fabrizio-fiorucci)
+
+</div>
+
+---
+
+## 🔭 Currently Working On
+
+| Project | Organization |
+|--------|--------------|
+| [**NGINX Declarative API**](https://www.github.com/f5devcentral/NGINX-Declarative-API) | [F5 DevCentral](https://github.com/f5devcentral/) |
+| [**NGINX Demos**](https://github.com/nginx/nginx-demos) | [NGINX](https://github.com/nginx/) |
+
+---
+
+## 🧩 NGINX Modules
+
+Contributions to the NGINX ecosystem — all available on [NGINX Demos](https://github.com/nginx/nginx-demos).
+
+| Module | Description |
+|--------|-------------|
+| [**Greylist Module**](https://github.com/fabriziofiorucci/ngx_http_greylist_module) | HTTP-layer greylisting for NGINX — also on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_http_greylist_module) |
+| [**RADIUS Parser**](https://github.com/fabriziofiorucci/ngx_stream_radius_module) | Stream module for RADIUS protocol parsing — also on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_stream_radius_module) |
+| [**Consul Service Discovery**](https://github.com/fabriziofiorucci/ngx_http_consul_service_discovery) | Dynamic upstream resolution via Consul — also on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_http_consul_service_discovery_module) |
+
+---
+
+## 🕹 Retrocomputing
+
+| Project | Description |
+|---------|-------------|
+| [**Tapeosaurus**](https://github.com/fabriziofiorucci/Tapeosaurus) | Wemos D1-based, cycle-accurate Datasette tape dumper for the Commodore 16 and Plus/4 |
+
+---
+
+## 🔧 Hardware & 3D Printing
+
+| Project | Description |
+|---------|-------------|
+| [**PiNAS**](https://github.com/fabriziofiorucci/PiNAS) | A Raspberry Pi-powered network-attached storage system |
+| [**Full Weather Station**](https://github.com/fabriziofiorucci/Full-Weather-Station) | Feature-complete ESP8266-based weather station |
+| [**Streamdeck**](https://github.com/fabriziofiorucci/Streamdeck) | Arduino-based custom stream deck controller |
+| [**Tapuino Enclosure**](https://github.com/sweetlilmre/tapuino/tree/master/CAD) | 3D-printable enclosure for the Tapuino project |
+| [**RetroBench PSU**](https://github.com/fabriziofiorucci/RetroBench-PSU) | Versatile bench power supply for Commodore retrocomputers |
+
+---
 
 ## 🤝 Connect
 
-- <img align="left" src="/images/linkedin.svg" alt="L" width="21px"/> <a href="https://www.linkedin.com/in/fabriziofiorucci/" target=_new>LinkedIn</a>
-- <img align="left" src="/images/thingiverse.svg" alt="T" width="21px"/> <a href="https://www.thingiverse.com/fiorucci" target=_new>Thingiverse</a>
-- <img align="left" src="/images/nginx.svg" alt="N" width="21px"/> <a href="https://www.f5.com/company/blog/authors/fabrizio-fiorucci" target=_new>NGINX</a>
+<div align="center">
 
-## 🔭 I'm currently working on
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriziofiorucci/)
+[![Thingiverse](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/fiorucci)
+[![NGINX](https://img.shields.io/badge/-NGINX%20Blog-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.f5.com/company/blog/authors/fabrizio-fiorucci)
 
-- [NGINX Declarative API](https://www.github.com/f5devcentral/NGINX-Declarative-API) on [F5 DevCentral](https://github.com/f5devcentral/)
-- [NGINX Demos](https://github.com/nginx/nginx-demos) on [NGINX](https://github.com/nginx/nginx-demos)
-
-## NGINX modules
-
-- [Greylist module](https://github.com/fabriziofiorucci/ngx_http_greylist_module) - also available on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_http_greylist_module)
-- [RADIUS parser](https://github.com/fabriziofiorucci/ngx_stream_radius_module) - also available on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_stream_radius_module)
-- [Consul Service Discovery](https://github.com/fabriziofiorucci/ngx_http_consul_service_discovery) - also available on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_http_consul_service_discovery_module)
-
-## Retrocomputing
-
-- [Tapeosaurus](https://github.com/fabriziofiorucci/Tapeosaurus) - Wemos D1-based, cycle-accurate Datasette tape dumper for the Commodore 16 and Plus/4
-
-## Hardware projects and 3D printing
-
-- [PiNAS](https://github.com/fabriziofiorucci/PiNAS) - A Raspberry Pi-powered NAS
-- [Full weather station](https://github.com/fabriziofiorucci/Full-Weather-Station) - ESP8266-based weather station
-- [Streamdeck](https://github.com/fabriziofiorucci/Streamdeck) - Arduino-based stream deck
-- [Tapuino enclosure](https://github.com/sweetlilmre/tapuino/tree/master/CAD) - 3d-printable enclosure for the Tapuino project
-- [RetroBench PSU](https://github.com/fabriziofiorucci/RetroBench-PSU) - A versatile bench power supply unit that can power Commodore retrocomputers 
+</div>
