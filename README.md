@@ -38,7 +38,7 @@ Contributions to the NGINX ecosystem — all available on [NGINX Demos](https://
 
 | Project | Description |
 |---------|-------------|
-| [**Tapeosaurus**](https://github.com/fabriziofiorucci/Tapeosaurus) | Wemos D1-based, cycle-accurate Datasette tape dumper for the Commodore 16, Plus/4, 64 and 128 |
+| [**Tapeosaurus**](https://github.com/fabriziofiorucci/Tapeosaurus) | Wemos D1-based, cycle-accurate Datasette tape dumper for the Commodore 16, Plus/4, 64, 128, Spectrum and MSX |
 
 ---
 
