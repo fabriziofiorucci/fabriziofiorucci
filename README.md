@@ -53,6 +53,7 @@ Contributions to the NGINX ecosystem — all available on [NGINX Demos](https://
 | [**Tapuino Enclosure**](https://github.com/sweetlilmre/tapuino/tree/master/CAD) | 3D-printable enclosure for the Tapuino project |
 | [**RetroBench PSU**](https://github.com/fabriziofiorucci/RetroBench-PSU) | Versatile bench power supply for Commodore retrocomputers |
 | [**ILI9486 driver for Raspberry Pico**](https://github.com/fabriziofiorucci/Raspberry-Pico-ili9486-micropython) | Ultra-fast Micropython driver for the ILI9486 3.5″ TFT LCD, optimised for Raspberry Pi Pico |
+| [**pico-nrf24l01**](https://github.com/fabriziofiorucci/pico-nrf24l01) | A MicroPython driver for the NRF24L01 / NRF24L01+ 2.4GHz radio module, written for the Raspberry Pi Pico  |
 
 ---
 
