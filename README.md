@@ -28,7 +28,7 @@ Contributions to the NGINX ecosystem — all available on [NGINX Demos](https://
 
 | Module | Description |
 |--------|-------------|
-| [**API Discovery**](https://github.com/f5devcentral/ngx_http_api_discovery_module) | Native C dynamic module for NGINX that provides automatic API discovery on [F5 DevCentral](https://github.com/f5devcentral) |
+| [**API Discovery**](https://github.com/f5devcentral/ngx_http_api_discovery_module) | Native C dynamic module for NGINX that provides automatic API discovery on [F5 DevCentral]([https://github.com/f5devcentral](https://github.com/f5devcentral/ngx_http_api_discovery_module)) |
 | [**Consul Service Discovery**](https://github.com/fabriziofiorucci/ngx_http_consul_service_discovery) | Dynamic Consul service discovery — also on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_http_consul_service_discovery_module) |
 | [**DNS Parser**](https://github.com/fabriziofiorucci/ngx_stream_dns_module) | Stream module for DNS protocol parsing - also on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_stream_dns_module) |
 | [**Greylist Module**](https://github.com/fabriziofiorucci/ngx_http_greylist_module) | HTTP-layer greylisting for NGINX — also on [NGINX Demos](https://github.com/nginx/nginx-demos/tree/main/nginx/ngx_http_greylist_module) |
