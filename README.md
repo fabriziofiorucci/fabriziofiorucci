@@ -19,6 +19,7 @@
 |--------|--------------|
 | [**NGINX Declarative API**](https://www.github.com/f5devcentral/NGINX-Declarative-API) | [F5 DevCentral](https://github.com/f5devcentral/) |
 | [**NGINX Demos**](https://github.com/nginx/nginx-demos) | [NGINX](https://github.com/nginx/) |
+| [**F5 WAF Policy Manager**](https://github.com/f5devcentral/F5-WAF-Policy-Manager) | [F5 DevCentral](https://github.com/f5devcentral/) |
 
 ---
 
